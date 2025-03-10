@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes: light --default, dark --prefersdark;
+}
+
+body{
+    margin: none;
+    padding: none;
+}
+
+.active {
+    background-color: blue;
+    color: white;
+}
+
+.color-component {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.color-display {
+    width: 300px;
+    height: 250px;
+    display: flex;
+    border: 5px solid hsl(0, 0%, 80%);
+    border-radius: 25px;
+    transition: 0.25s ease;
+}

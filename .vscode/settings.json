@@ -1,0 +1,33 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\Acer\\esp\\v5.4\\esp-idf",
+    "idf.espAdfPathWin": "C:\\Users\\Acer\\espressif\\esp-adf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.toolsPathWin": "C:\\Users\\Acer\\.espressif",
+    "files.associations": {
+        "wifi_app.h": "c",
+        "task.h": "c",
+        "netbiosns.h": "c",
+        "webpage.h": "c",
+        "fcntl.h": "c",
+        "_default_fcntl.h": "c",
+        "esp_event.h": "c",
+        "esp_littlefs.h": "c",
+        "array": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "network_app.h": "c",
+        "freertos.h": "c",
+        "esp_eth.h": "c",
+        "cstdlib": "c",
+        "esp_tls_crypto.h": "c",
+        "esp_chip_info.h": "c",
+        "esp_vfs_semihost.h": "c",
+        "esp_log.h": "c"
+    },
+    "idf.flashType": "UART",
+    "idf.portWin": "COM7",
+    "idf.pythonInstallPath": "C:\\Users\\Acer\\.espressif\\tools\\idf-python\\3.11.2\\python.exe"
+}
