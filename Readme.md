@@ -1,6 +1,6 @@
 # HTTP Restful API Server Example using React
 
-This project demonstrates how to run a React application on an ESP32 microcontroller using ESP-IDF as the IoT development framework and React with TypeScript for the front end. Additionally, QEMU (Quick Emulator) has been utilized to run ESP32 code, along with its Ethernet support for networking, without physical hardware.
+This project showcases how to run a React application on an ESP32 microcontroller using the ESP-IDF framework for IoT development and React with TypeScript for the front-end. Additionally, QEMU (Quick Emulator) is used to emulate the ESP32, enabling the execution of ESP32 code with Ethernet support for networking, all without the need for physical hardware.
 
 ## Overview
 
